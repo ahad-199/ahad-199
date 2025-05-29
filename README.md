@@ -53,7 +53,7 @@
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-ahad-9609a128b)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-ahad9009/)  
 📧 Email: ahada1249@gmail.com  
 📍 Location: Lahore, Pakistan
 
