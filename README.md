@@ -38,7 +38,7 @@
 ### 🤖 NEMO – Smart AI Robot  
 > Built a robotic assistant using conversational AI (LLaMA 3, Gemini, Mistral), object detection, real-time translation, and more. Frontend powered by TailwindCSS and JS.
 
-### 💼 IT Support Intern @ Smartex  
+### 💼 IT Support Specialist @ Smartex  
 > Hands-on experience in hardware/software troubleshooting, network issues, and IT inventory maintenance.
 
 ---
