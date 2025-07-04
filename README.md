@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdul Ahad
 
-🎓 A passionate **Computer Science graduate** from Lahore Garrison University and aspiring **AI & Full-Stack Developer** with a knack for building innovative, tech-driven solutions.
+🎓 A passionate **Computer Science graduate** from Lahore Garrison University and aspiring **AI & Front-End Developer** with a knack for building innovative, tech-driven solutions.
 
 - 🧠 Final Year Project: **NEMO – Smart AI Robot for Everyday Tasks**
 - 🤖 Integrated with **LLaMA, Gemini, and Mistral** LLMs
